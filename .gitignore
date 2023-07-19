@@ -1,0 +1,15 @@
+/target
+
+/LICENSE-LINKS.xml
+/THIRD-PARTY.txt
+
+/tmp
+/logs
+
+# environment settings
+.classpath
+.project
+.settings
+.vscode
+build.sh
+mavenBuild.log
